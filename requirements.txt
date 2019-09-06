@@ -1,2 +1,5 @@
-Django==2.0
+Django>=2.0.11
+django-ckeditor
+django-js-asset
+Pillow
 pytz==2019.1
